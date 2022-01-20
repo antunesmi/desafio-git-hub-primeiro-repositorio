@@ -1,0 +1,6 @@
+Comandos Usados no GIT BASH
+
+git unit
+git status
+git clone
+git add * - adciona tudo no controle de versão
