@@ -4,3 +4,5 @@ git unit
 git status
 git clone
 git add * - adciona tudo no controle de versão
+git commit -m "mensagem"
+git push origin main
